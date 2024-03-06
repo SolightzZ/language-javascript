@@ -1,0 +1,2 @@
+# language-javascript
+language javascript
